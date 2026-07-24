@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="344" viewBox="0 0 360 344" role="img" aria-label="ASCII laptop with a smiling robot face on the screen">
+<style>text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;white-space:pre;}
+    .frame { opacity: 0; animation: cyc 5.2s steps(1) infinite; }
+    @keyframes cyc { 0%   { opacity: 1; }
+                     25.0000% { opacity: 0; }
+                     100% { opacity: 0; } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .led { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: .35; } 50% { opacity: 1; } }
+    .bob { animation: bob 2.6s ease-in-out infinite; }
+    @keyframes bob { 0%, 100% { transform: translateY(0); }
+                     50%       { transform: translateY(-3px); } }
+    @media (prefers-reduced-motion: reduce) {
+      .frame { animation: none; }
+      .frame0 { opacity: 1; }
+      .cursor, .led, .bob { animation: none; }
+    }</style>
+<rect width="360" height="344" rx="10" fill="#0d1117" stroke="#21262d"/>
+<rect x="70.8" y="74.8" width="218.4" height="103.5" rx="3" fill="#0a1a12"/>
+<text x="16.2" y="56.3" font-size="13.0" fill="#8b949e" xml:space="preserve">   .----------------------------------.   </text>
+<text x="16.2" y="72.8" font-size="13.0" fill="#8b949e" xml:space="preserve">   |  .----------------------------.  |   </text>
+<text x="16.2" y="89.3" font-size="13.0" fill="#8b949e" xml:space="preserve">   |  |                            |  |   </text>
+<text x="16.2" y="105.8" font-size="13.0" fill="#8b949e" xml:space="preserve">   |  |                            |  |   </text>
+<text x="16.2" y="122.3" font-size="13.0" fill="#8b949e" xml:space="preserve">   |  |                            |  |   </text>
+<text x="16.2" y="138.8" font-size="13.0" fill="#8b949e" xml:space="preserve">   |  |                            |  |   </text>
+<text x="16.2" y="155.3" font-size="13.0" fill="#8b949e" xml:space="preserve">   |  |                            |  |   </text>
+<text x="16.2" y="171.8" font-size="13.0" fill="#8b949e" xml:space="preserve">   |  |                            |  |   </text>
+<text x="16.2" y="188.3" font-size="13.0" fill="#8b949e" xml:space="preserve">   |  '----------------------------'  |   </text>
+<text x="16.2" y="204.8" font-size="13.0" fill="#8b949e" xml:space="preserve">   |              .----.              |   </text>
+<text x="16.2" y="221.3" font-size="13.0" fill="#8b949e" xml:space="preserve">   '----------------------------------'   </text>
+<text x="16.2" y="237.8" font-size="13.0" fill="#8b949e" xml:space="preserve"> .--------------------------------------. </text>
+<text x="16.2" y="254.3" font-size="13.0" fill="#8b949e" xml:space="preserve">/                                        \</text>
+<text x="16.2" y="270.8" font-size="13.0" fill="#8b949e" xml:space="preserve">'----------------------------------------'</text>
+<circle cx="47.4" cy="250.3" r="2.6" fill="#39d353" class="led"/>
+<g class="bob">
+<text x="180.0" y="138.9" font-size="40.0" text-anchor="middle" xml:space="preserve" class="frame frame0" style="animation-delay:0.000s"><tspan fill="#ff6b81">♥</tspan><tspan fill="#39d353">w</tspan><tspan fill="#ff6b81">♥</tspan></text>
+<text x="180.0" y="138.9" font-size="40.0" text-anchor="middle" xml:space="preserve" class="frame frame1" style="animation-delay:1.300s"><tspan fill="#ff6b81">♥</tspan><tspan fill="#39d353">w</tspan><tspan fill="#ff6b81">♥</tspan></text>
+<text x="180.0" y="138.9" font-size="40.0" text-anchor="middle" xml:space="preserve" class="frame frame2" style="animation-delay:2.600s"><tspan fill="#39d353">^</tspan><tspan fill="#39d353">w</tspan><tspan fill="#39d353">^</tspan></text>
+<text x="180.0" y="138.9" font-size="40.0" text-anchor="middle" xml:space="preserve" class="frame frame3" style="animation-delay:3.900s"><tspan fill="#39d353">-</tspan><tspan fill="#39d353">w</tspan><tspan fill="#39d353">-</tspan></text>
+</g>
+<text x="180.0" y="313.3" font-size="12.5" fill="#7d8590" text-anchor="middle">$ building things <tspan fill="#39d353" class="cursor">&#9611;</tspan></text>
+</svg>

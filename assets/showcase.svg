@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="186" viewBox="0 0 850 186" role="img" aria-label="Featured projects: pos, sukoon">
+<style>text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;}
+    .card { animation: rise .55s cubic-bezier(.2,.7,.3,1) backwards; }
+    .line { animation: fade .5s ease-out backwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(14px); }
+                      to   { opacity: 1; transform: none; } }
+    @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .card, .line { animation: none; }
+    }</style>
+<rect width="850" height="186" rx="10" fill="#0d1117" stroke="#21262d"/>
+<text x="22" y="34" fill="#c9d1d9" font-size="14" class="line"><tspan fill="#39d353">$</tspan> ls ~/projects --public</text>
+<rect x="22.0" y="54" width="394.0" height="110.0" rx="8" fill="#12181f" stroke="#21262d" class="card" style="animation-delay:0.25s"/>
+<rect x="22.0" y="54" width="3" height="110.0" rx="1.5" fill="#39d353" class="card" style="animation-delay:0.25s"/>
+<text x="38.0" y="82" fill="#39d353" font-size="15" font-weight="700" class="card" style="animation-delay:0.25s">pos</text>
+<text x="38.0" y="101" fill="#c9d1d9" font-size="11.5" class="card" style="animation-delay:0.25s">Point of sale system for a youth organisation</text>
+<text x="38.0" y="122" fill="#7d8590" font-size="10.5" class="card" style="animation-delay:0.25s">Sellers, tabs and till reconciliation,</text>
+<text x="38.0" y="136" fill="#7d8590" font-size="10.5" class="card" style="animation-delay:0.25s">running at a real organisation.</text>
+<rect x="38.0" y="138" width="38.0" height="18" rx="9" fill="#1c2530" class="card" style="animation-delay:0.25s"/>
+<text x="45.0" y="150.5" fill="#7d8590" font-size="10" class="card" style="animation-delay:0.25s">Java</text>
+<rect x="82.0" y="138" width="80.0" height="18" rx="9" fill="#1c2530" class="card" style="animation-delay:0.25s"/>
+<text x="89.0" y="150.5" fill="#7d8590" font-size="10" class="card" style="animation-delay:0.25s">Spring Boot</text>
+<rect x="168.0" y="138" width="44.0" height="18" rx="9" fill="#1c2530" class="card" style="animation-delay:0.25s"/>
+<text x="175.0" y="150.5" fill="#7d8590" font-size="10" class="card" style="animation-delay:0.25s">React</text>
+<rect x="218.0" y="138" width="62.0" height="18" rx="9" fill="#1c2530" class="card" style="animation-delay:0.25s"/>
+<text x="225.0" y="150.5" fill="#7d8590" font-size="10" class="card" style="animation-delay:0.25s">Postgres</text>
+<rect x="434.0" y="54" width="394.0" height="110.0" rx="8" fill="#12181f" stroke="#21262d" class="card" style="animation-delay:0.39s"/>
+<rect x="434.0" y="54" width="3" height="110.0" rx="1.5" fill="#d2a8ff" class="card" style="animation-delay:0.39s"/>
+<text x="450.0" y="82" fill="#d2a8ff" font-size="15" font-weight="700" class="card" style="animation-delay:0.39s">sukoon</text>
+<text x="450.0" y="101" fill="#c9d1d9" font-size="11.5" class="card" style="animation-delay:0.39s">Fragrance discovery, done properly</text>
+<text x="450.0" y="122" fill="#7d8590" font-size="10.5" class="card" style="animation-delay:0.39s">Built for one person's taste,</text>
+<text x="450.0" y="136" fill="#7d8590" font-size="10.5" class="card" style="animation-delay:0.39s">not an average of everyone's.</text>
+<rect x="450.0" y="138" width="74.0" height="18" rx="9" fill="#1c2530" class="card" style="animation-delay:0.39s"/>
+<text x="457.0" y="150.5" fill="#7d8590" font-size="10" class="card" style="animation-delay:0.39s">TypeScript</text>
+<rect x="530.0" y="138" width="44.0" height="18" rx="9" fill="#1c2530" class="card" style="animation-delay:0.39s"/>
+<text x="537.0" y="150.5" fill="#7d8590" font-size="10" class="card" style="animation-delay:0.39s">React</text>
+<rect x="580.0" y="138" width="50.0" height="18" rx="9" fill="#1c2530" class="card" style="animation-delay:0.39s"/>
+<text x="587.0" y="150.5" fill="#7d8590" font-size="10" class="card" style="animation-delay:0.39s">Design</text>
+</svg>

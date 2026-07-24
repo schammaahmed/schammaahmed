@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="344" viewBox="0 0 490 344" role="img" aria-label="Profile summary card for Schamma Ahmed">
+<style>text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;}
+    .row { animation: slide .5s cubic-bezier(.2,.7,.3,1) backwards; }
+    @keyframes slide { from { opacity: 0; transform: translateX(-10px); }
+                       to   { opacity: 1; transform: none; } }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .row, .cursor { animation: none; }
+    }</style>
+<rect width="490" height="344" rx="10" fill="#0d1117" stroke="#21262d"/>
+<circle cx="26" cy="24" r="5.5" fill="#ff5f56" opacity=".85"/>
+<circle cx="43" cy="24" r="5.5" fill="#ffbd2e" opacity=".85"/>
+<circle cx="60" cy="24" r="5.5" fill="#27c93f" opacity=".85"/>
+<text x="86" y="28" fill="#c9d1d9" font-size="12.5" class="row" style="animation-delay:0.10s">schamma@github ~ $ neofetch</text>
+<line x1="20" y1="46" x2="470" y2="46" stroke="#21262d"/>
+<text x="20" y="78" fill="#58a6ff" font-size="12.5" font-weight="600" class="row" style="animation-delay:0.19s">Now</text>
+<text x="106" y="78" fill="#c9d1d9" font-size="12.5" class="row" style="animation-delay:0.19s">Software engineering intern · building in public</text>
+<text x="20" y="104" fill="#58a6ff" font-size="12.5" font-weight="600" class="row" style="animation-delay:0.28s">Focus</text>
+<text x="106" y="104" fill="#c9d1d9" font-size="12.5" class="row" style="animation-delay:0.28s">Backend systems, REST APIs, infrastructure</text>
+<text x="20" y="130" fill="#58a6ff" font-size="12.5" font-weight="600" class="row" style="animation-delay:0.37s">Stack</text>
+<text x="106" y="130" fill="#c9d1d9" font-size="12.5" class="row" style="animation-delay:0.37s">Java · Spring Boot · React · PostgreSQL · Docker</text>
+<text x="20" y="156" fill="#58a6ff" font-size="12.5" font-weight="600" class="row" style="animation-delay:0.46s">Shipping</text>
+<text x="106" y="156" fill="#c9d1d9" font-size="12.5" class="row" style="animation-delay:0.46s">Point of sale system for a youth organisation</text>
+<text x="20" y="182" fill="#58a6ff" font-size="12.5" font-weight="600" class="row" style="animation-delay:0.55s">Also</text>
+<text x="106" y="182" fill="#c9d1d9" font-size="12.5" class="row" style="animation-delay:0.55s">Sukoon — fragrance discovery, built for one</text>
+<text x="20" y="208" fill="#58a6ff" font-size="12.5" font-weight="600" class="row" style="animation-delay:0.64s">Learning</text>
+<text x="106" y="208" fill="#c9d1d9" font-size="12.5" class="row" style="animation-delay:0.64s">Java SE Associate · Meta Front-End</text>
+<text x="20" y="234" fill="#58a6ff" font-size="12.5" font-weight="600" class="row" style="animation-delay:0.73s">Site</text>
+<text x="106" y="234" fill="#c9d1d9" font-size="12.5" class="row" style="animation-delay:0.73s">schammaahmed.com</text>
+<text x="20" y="260" fill="#58a6ff" font-size="12.5" font-weight="600" class="row" style="animation-delay:0.82s">LinkedIn</text>
+<text x="106" y="260" fill="#c9d1d9" font-size="12.5" class="row" style="animation-delay:0.82s">www.linkedin.com/in/schammaahmed</text>
+<line x1="20" y1="282" x2="470" y2="282" stroke="#21262d"/>
+<text x="20" y="304" fill="#7d8590" font-size="11.5" font-style="italic" class="row" style="animation-delay:0.91s">Améliorer. Always improving. Always figuring it out.</text>
+<text x="20" y="330" fill="#39d353" font-size="12.5" class="row" style="animation-delay:1.00s">$ <tspan fill="#c9d1d9" class="cursor">▋</tspan></text>
+</svg>
