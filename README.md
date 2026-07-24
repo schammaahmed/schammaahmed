@@ -1,6 +1,6 @@
 <h3><code>$ whoami</code></h3>
 
-<p><img src="assets/robot.svg?v=20260725" width="360" alt="ASCII laptop with a heart-eyed robot face"><img src="assets/info-card.svg?v=20260725" width="490" alt="Schamma Ahmed: backend systems, Java, Spring Boot, React, PostgreSQL"></p>
+<p><img src="assets/hero.svg?v=20260725" width="850" alt="ASCII laptop with a heart-eyed robot face, beside a card listing current work, stack and links"></p>
 
 <h3><code>$ git log --graph --since="1 year ago"</code></h3>
 

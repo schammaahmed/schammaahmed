@@ -44,6 +44,8 @@ jobs:
           python scripts/make_info_card.py
           python scripts/make_showcase_svg.py
           python scripts/make_robot_svg.py
+          # must run last: it composites robot.svg + info-card.svg
+          python scripts/make_hero_svg.py
 
       - name: Bust the camo cache
         # GitHub proxies README images and caches them hard. Stamping today's
