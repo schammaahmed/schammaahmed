@@ -1,14 +1,14 @@
 <h3><code>$ whoami</code></h3>
 
-<p><img src="assets/hero.svg?v=20260819" width="850" alt="ASCII laptop with a heart-eyed robot face, beside a card listing current work, stack and links"></p>
+<p><img src="assets/hero.svg?v=20260820" width="850" alt="ASCII laptop with a heart-eyed robot face, beside a card listing current work, stack and links"></p>
 
 <h3><code>$ git log --graph --since="1 year ago"</code></h3>
 
-<p><img src="assets/contrib-heatmap.svg?v=20260819" width="850" alt="GitHub contribution heatmap, refreshed daily"></p>
+<p><img src="assets/contrib-heatmap.svg?v=20260820" width="850" alt="GitHub contribution heatmap, refreshed daily"></p>
 
 <h3><code>$ ls ~/projects --public</code></h3>
 
-<p><img src="assets/showcase.svg?v=20260819" width="850" alt="Featured projects: pos and sukoon"></p>
+<p><img src="assets/showcase.svg?v=20260820" width="850" alt="Featured projects: pos and sukoon"></p>
 
 <h3><code>$ cat contact.txt</code></h3>
 
